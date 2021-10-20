@@ -1,0 +1,9 @@
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\obj\Debug\ServerApp.ServerForm.resources
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache

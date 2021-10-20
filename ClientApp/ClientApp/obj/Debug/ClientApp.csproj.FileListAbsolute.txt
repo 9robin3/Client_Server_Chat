@@ -1,0 +1,8 @@
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ClientApp\ClientApp\obj\Debug\ClientApp.ClientForm.resources
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Robin\Desktop\HÖGSKOLAN\LÄSÅR 2\Flertrådad Programmering\Uppgifter\Assignment5\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
